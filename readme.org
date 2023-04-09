@@ -1,4 +1,4 @@
 * Centrar div
 Esto es un ejemplo simple sobre centrar elementos usando *grid*.
-** Imagen de el div centrado
+** Imagen del div centrado
 [[https://imgur.com/YuZJ2Fe.png]]
